@@ -9,7 +9,7 @@ using namespace std;
 
 class FriendRecommendationSystem {
 private:
-    unordered_map<int, unordered_set<int> > friends;
+    unordered_map<int, unordered_set<int>   > friends;
 
 public:
     // 초기화 함수
